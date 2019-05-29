@@ -1,0 +1,3 @@
+BACKGROUND = data/space.png
+SCROLLING OBJECT = data/asteroid.png
+BULLET = data/greenbullet.png
